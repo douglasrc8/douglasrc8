@@ -2,9 +2,9 @@
 <div align="center">  
 
 <div align="center">
-- 🔭 Desenvolvedor Full-Stack <br/>
-- 📘 Cursando Sistema de Informação <br/>
-- 🌱 Estudando Java, Python, MySQL, Spring, CSS, JavaScript, HTML, Node e Git <br/>
+- 🔭 Full-Stack Developer<br/>
+- 📘 Studying Information System <br/>
+- 🌱Studying Java, Python, MySQL, Spring, CSS, JavaScript, HTML, Node and Git <br/>
 <br/>
 <div/>
 
