@@ -7,7 +7,12 @@
 - 🌱 Estudando Java, Python, MySQL, Spring, CSS, JavaScript, HTML, Node e Git <br/>
 <br/>
 <div/>
-  
+
+<div align="center">
+<img src="https://media.giphy.com/media/YW1g39jepet2t5bcSh/giphy.gif" width="50%" height="auto" frameBorder="0">
+</div>
+<br>
+
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglasrc8&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Douglas Rosolini github" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrc8&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
