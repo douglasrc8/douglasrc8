@@ -9,7 +9,7 @@
 <div/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/YW1g39jepet2t5bcSh/giphy.gif" width="50%" height="auto" frameBorder="0">
+<img src="https://giphy.com/gifs/CartoonNetworkLatam-space-brothers-warner-YW1g39jepet2t5bcSh" width="50%" height="auto" frameBorder="0">
 </div>
 <br>
 
