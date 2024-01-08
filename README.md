@@ -13,7 +13,7 @@
 </div>
 <br>
 
-//Estatisticas do GItHub
+
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglasrc8&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Douglas Rosolini github" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrc8&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
